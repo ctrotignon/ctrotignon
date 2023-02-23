@@ -18,7 +18,7 @@ console.log(clement); //[ 'Entrepreneur', 'realEstate', 'devWeb' ]
 ```
 Stacks et outils quotidiens
 
-[(www.linkedin.com/in/clement-trotignon)]
+ 👉 [(www.linkedin.com/in/clement-trotignon)]
 
 <!--
 **ctrotignon/ctrotignon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
