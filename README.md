@@ -5,7 +5,8 @@ Bonjour,
 
 Je suis Clément , développeur full stack junior
          
-``` const clement = ["Entrepeneur", "realEstate"];
+``` 
+const clement = ["Entrepeneur", "realEstate"];
 clement.push("devWeb");
 console.log(clement); //[ 'Entrepreneur', 'realEstate', 'devWeb' ]
 
