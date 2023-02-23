@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+         
+Bonjour, Je suis Clément , développeur full stack junior
+         
+
+
+
 <!--
 **ctrotignon/ctrotignon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
