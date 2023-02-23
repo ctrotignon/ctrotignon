@@ -6,7 +6,7 @@ Bonjour,
 Je suis Clément , développeur full stack junior
          
 
-
+👩🏻‍💻 Stacks et outils quotidiens
 
 <!--
 **ctrotignon/ctrotignon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
