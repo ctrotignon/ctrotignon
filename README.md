@@ -8,7 +8,7 @@ Je suis Clément , développeur full stack junior
 ``` const clement = ["contemporaryArt", "realEstate"];
 clement.push("devWeb");
 console.log(clement); //[ 'contemporaryArt', 'realEstate', 'devWeb' ]
-
+```
 
 // 🚀 Après 3 ans dans l'immobilier, j'ai pris un grand virage dans ma vie: apprendre à coder    
 // pour devenir développeur fullstack et mobile! Toutes les lignes de code
