@@ -11,7 +11,8 @@ clement.push("devWeb");
 console.log(clement); //[ 'Entrepreneur', 'realEstate', 'devWeb' ]
 
 
-// 🚀 Après avoir créer une société en Australie et travailler 3 ans dans l'immobilier, j'ai pris un grand virage dans ma vie: apprendre à coder    
+// 🚀 Après avoir créer une société en Australie et travailler 3 ans dans l'immobilier
+// j'ai pris un grand virage dans ma vie: apprendre à coder    
 // pour devenir développeur fullstack et mobile! Toutes les lignes de code
 // deviennent des choses concrètes qui me fascinent! ```
 ```
