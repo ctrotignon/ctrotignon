@@ -5,20 +5,6 @@ Bonjour,
 
 Je suis Clément , développeur full stack junior
          
-``` 
-const clement = ['entrepeneur', 'realEstate'];
-clement.push('devWeb');
-console.log(clement); //[ 'entrepreneur', 'realEstate', 'devWeb' ]
-
-
-// 🚀 Après avoir créer une société en Australie ou j'ai y vecu 2 ans
-// de retour en France j'ai travailler 3 ans dans l'immobilier
-// j'ai decide de prendre un grand virage dans ma vie: apprendre à coder    
-// pour devenir développeur fullstack et mobile! Toutes les lignes de code
-// deviennent des choses concrètes qui me fascinent! ```
-```
-Stacks et outils quotidiens
-
  👉 [(www.linkedin.com/in/clement-trotignon)]
 
 <!--
